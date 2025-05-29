@@ -1,0 +1,13 @@
+name = "senere-V2"
+author = "HIDDENSNOWER"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "504e3bb6f4fc210216d6f442da9d31b833e097ba0773d308f95970ea6d7b682e"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
